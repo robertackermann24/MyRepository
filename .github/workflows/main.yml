@@ -92,7 +92,7 @@ jobs:
           Write-Host "`n=== RDP ACCESS ==="
           Write-Host "Address: $env:TAILSCALE_IP"
           Write-Host "Username: AboRafif"
-          Write-Host "Password: admin@123"
+          Write-Host "Password: A@sd102030"
           Write-Host "Powered by https://www.AboRafif.xyz/"
           Write-Host "========= All rights reserved =========`n"
           while ($true) {
